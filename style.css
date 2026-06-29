@@ -1153,3 +1153,13 @@ BACK TO TOP
     background:#C8A15A;
 
 }
+/* Mobil */
+@media (max-width: 768px){
+
+    .logo img{
+        width: 130px;
+        height: 130px;
+        object-fit: contain;
+    }
+
+}
